@@ -1,0 +1,28 @@
+﻿pathways,perfect_names,ontology_pathwaytype,ontology - direct parents of entity,highest_class_mean,representation,lda_score_log10,p value
+PWY-7323,Superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis,Superpathways // Carbohydrate Biosynthesis,Pathways // Biosynthesis,4.063633545,morning,3.216968729,0.020053389
+PWY-7332,Superpathway of UDP-N-acetylglucosamine-derived O-antigen building blocks biosynthesis,Superpathways // Carbohydrate Biosynthesis,Pathways // Biosynthesis,3.404046486,morning,3.011531411,0.027459984
+PWY-5896,Superpathway of menaquinol-10 biosynthesis,"Superpathways // Cofactor, Carrier, and Vitamin Biosynthesis",Pathways // Biosynthesis,3.597673251,morning,3.003528525,0.033477427
+PWY-5850,Superpathway of menaquinol-6 biosynthesis,"Superpathways // Cofactor, Carrier, and Vitamin Biosynthesis",Pathways // Biosynthesis,3.593485442,morning,2.992928763,0.031166705
+PWY-6897,Thiamine diphosphate salvage II,"Superpathways // Cofactor, Carrier, and Vitamin Biosynthesis",Pathways // Biosynthesis,4.106673556,morning,2.922752954,0.043781843
+PWY-5860,Superpathway of demethylmenaquinol-6 biosynthesis I,"Superpathways // Cofactor, Carrier, and Vitamin Biosynthesis",Pathways // Biosynthesis,3.449354959,morning,2.862886857,0.031166705
+PWY-5529,Superpathway of bacteriochlorophyll a biosynthesis,Superpathways // Tetrapyrrole Biosynthesis // Secondary Metabolite Biosynthesis,Pathways // Biosynthesis,3.282123419,morning,2.776276027,0.018167748
+PWY-7159,"3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent)",Tetrapyrrole Biosynthesis // Secondary Metabolite Biosynthesis,Biosynthesis,3.316515494,morning,2.764509275,0.044618612
+PWY-5531,"3,8-divinyl-chlorophyllide a biosynthesis II (anaerobic)",Tetrapyrrole Biosynthesis // Secondary Metabolite Biosynthesis,Biosynthesis,3.323664536,morning,2.763108829,0.03870404
+PWY0-845,Superpathway of pyridoxal 5'-phosphate biosynthesis and salvage,"Superpathways // Cofactor, Carrier, and Vitamin Biosynthesis",Pathways // Biosynthesis,3.309289411,morning,2.627844379,0.026682694
+P441-PWY,Superpathway of N-acetylneuraminate degradation,Superpathways // Carboxylic Acid Degradation,Pathways // Degradation/Utilization/Assimilation,3.035989757,morning,2.421756706,0.022512745
+PWY-7255,Ergothioneine biosynthesis I (bacteria),Secondary Metabolite Biosynthesis,Biosynthesis,2.873087986,morning,2.361363795,0.036529919
+PWY-7084,Nitrifier denitrification,Superpathways // Inorganic Nutrient Metabolism // Generation of Precursor Metabolites and Energy,Pathways // Degradation/Utilization/Assimilation,1.372912003,morning,2.356411429,0.036907151
+PWY1G-0,Mycothiol biosynthesis,Other Biosynthesis,Biosynthesis,2.684845362,morning,2.324002579,0.037781822
+PWY-6396,"Superpathway of 2,3-butanediol biosynthesis",Superpathways // Other Biosynthesis,Pathways // Biosynthesis,2.77261505,morning,2.237233327,0.030577346
+GLCMANNANAUT-PWY,"Superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation","Superpathways // Amide, Amidine, Amine, and Polyamine Degradation",Pathways // Degradation/Utilization/Assimilation,2.649529566,morning,2.127815829,0.030577346
+PWY-7090,"UDP-2,3-diacetamido-2,3-dideoxy-&alpha;-D-mannuronate biosynthesis",Carbohydrate Biosynthesis,Biosynthesis,2.680154142,morning,2.119143603,0.048926119
+RHAMCAT-PWY,L-rhamnose degradation I,Carbohydrate Degradation,Degradation/Utilization/Assimilation,2.628797486,morning,2.090740153,0.01684165
+CHLOROPHYLL-SYN,"3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)",Tetrapyrrole Biosynthesis // Secondary Metabolite Biosynthesis,Biosynthesis,3.201943063,noon,2.707947986,0.035898425
+PWY-6728,Methylaspartate cycle,Generation of Precursor Metabolites and Energy,Pathways,3.06697781,noon,2.603296315,0.029998899
+PWY-7187,Pyrimidine deoxyribonucleotides de novo biosynthesis II,Nucleoside and Nucleotide Biosynthesis,Biosynthesis,4.025166541,early-afternoon,3.25622979,0.032652738
+ANAEROFRUCAT-PWY,Homolactic fermentation,Superpathways // Generation of Precursor Metabolites and Energy,Pathways,3.977974966,late-afternoon,3.32280594,0.030335011
+GLUCARGALACTSUPER-PWY,Superpathway of D-glucarate and D-galactarate degradation,Superpathways,Pathways,1.62065648,late-afternoon,2.227591769,0.030905112
+GALACTARDEG-PWY,D-galactarate degradation I,Carboxylic Acid Degradation,Degradation/Utilization/Assimilation,1.604765885,late-afternoon,2.113294289,0.02909417
+DENITRIFICATION-PWY,Nitrate reduction I (denitrification),Inorganic Nutrient Metabolism // Generation of Precursor Metabolites and Energy,Degradation/Utilization/Assimilation // Pathways,2.517195898,late-afternoon,2.082081326,0.038216964
+GLUCARDEG-PWY,D-glucarate degradation I,Carboxylic Acid Degradation,Degradation/Utilization/Assimilation,1.90579588,late-afternoon,2.028498149,0.007024714
+PWY-7295,L-arabinose degradation IV,Carbohydrate Degradation,Degradation/Utilization/Assimilation,1.491361694,late-afternoon,2.02248112,0.019403142
